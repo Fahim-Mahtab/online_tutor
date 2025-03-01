@@ -35,7 +35,7 @@ body {
     text-decoration: underline;
   }
   
-  /* Navigation Bar */
+ 
   nav {
     background-color: #333;
     padding: 10px;
@@ -57,20 +57,20 @@ body {
     font-weight: bold;
   }
   
-  /* Main Content */
+
   main {
     padding: 20px;
     text-align: center;
   }
   
-  /* Flex Layout for Services Page */
+
   .services-page {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
   }
   
-  /* Grid Layout for Blog Page */
+  
   .blog-page {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
